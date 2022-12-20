@@ -33,7 +33,7 @@ function loadButtons() {
 }
 
 function getRandomNumber(max) {
-//calculate the a random number
+//calculate the random number
     return Math.floor(Math.random() * max);
 }
 
